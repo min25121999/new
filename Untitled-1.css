@@ -1,0 +1,25 @@
+
+body{
+	with: 1000px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+}
+h1{
+	color:#03F;
+}
+h1:hover{
+	cursor:pointer; /* bàn tay */
+}
+h2{
+	color:#0F0;
+}
+p{
+	color:#F00;
+}
+.animal{
+	color:#FF0;
+	background:#006;
+}
+#b{
+	color:#C39;
+}
